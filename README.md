@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MongoDB, node.js**
 
-- 👨‍💻 All of my projects are available at [mturner.netlify.app](mturner.netlify.app)
+- 👨‍💻 All of my projects are available at [mturner.netlify.app](https://mturner.netlify.app)
 
 - 📫 How to reach me **turneramason@gmail.com**
 
