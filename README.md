@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mason Turner</h1>
 <h3 align="center">A passionate full-stack developer located in Southern Virginia.</h3>
 
-- 🌱 I’m currently learning **a variety of CSS frameworks (e.g. Tailwind & Bootstrap)** and **React**
+- 🌱 I’m currently learning **React**, **Tailwind**, **Bootstrap 5**, and **Discord.js**
 
 - 👨‍💻 All of my projects are available at [mturner.netlify.app](https://mturner.netlify.app)
 
