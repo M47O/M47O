@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Stripe** and **Discord.js**
 
-- 👨‍💻 All of my projects are available at [mturner.netlify.app](https://mturner.netlify.app)
+- 👨‍💻 A few of my favorite projects are available at [masonturner.dev](https://masonturner.dev)
 
 - 📫 How to reach me **turneramason@gmail.com**
 
