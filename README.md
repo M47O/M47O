@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Stripe** and **Discord.js**
 
-- 👨‍💻 A few of my favorite projects are available at [masonturner.dev](https://masonturner.dev)
+- 👨‍💻 A few of my favorite projects are available to view at [masonturner.dev](https://masonturner.dev), but all of my public-facing projects are available here on Github
 
 - 📫 How to reach me **turneramason@gmail.com**
 
