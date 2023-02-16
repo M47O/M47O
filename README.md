@@ -5,7 +5,7 @@
 
 - 👨‍💻 A few of my favorite projects are available to view at [masonturner.dev](https://masonturner.dev), but all of my public-facing projects are available here on Github
 
-- 📫 How to reach me **turneramason@gmail.com**
+- 📫 Shoot me an email: **turneramason@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
