@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mason Turner</h1>
 <h3 align="center">A passionate full-stack developer located in Southern Virginia.</h3>
 
-- 🌱 I’m currently learning **Stripe** and **Discord.js**
+- 🌱 I’m currently learning **Rust** and **Discord.js**
 
 - 👨‍💻 A few of my favorite projects are available to view at [masonturner.dev](https://masonturner.dev), but all of my public-facing projects are available here on Github
 
